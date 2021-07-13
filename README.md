@@ -25,6 +25,7 @@ Then you can replace `"mobile"` with
 
 usually it should be "desktop" or "browser" but desktop will make it stop working because it requires electron  
 and browser will turn the app into demo version
+"undefined" is kind of hack that makes the desktop version work
 ```
 
 then replace `"and"` with
