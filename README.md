@@ -21,11 +21,8 @@ appTotalVersion = appCN && "android" == osname ? 4 : 8,
 ```
 Then you can replace `"mobile"` with
 ```
-"undefined"
-
-usually it should be "desktop" or "browser" but desktop will make it stop working because it requires electron  
-and browser will turn the app into demo version
-"undefined" is kind of hack that makes the desktop version work
+"desktop"
+"browser" this will enable the demo version from incredibox website
 ```
 
 then replace `"and"` with
