@@ -1,5 +1,5 @@
 # Incredibox
-A source code of PC version of Incredibox hacked from the Android version
+A source code of browser version of Incredibox hacked from the Android version and unlocked
 
 You can run it on apache, nginx or any other web server.  
 The Android version has same assets as PC version.  
